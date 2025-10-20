@@ -1,5 +1,6 @@
 # Semestrální práce - Uživatelský software
-| -------- | -------------|
+| Položka | Hodnota |
+| --------- | ------------- |
 | **Téma:** | Využití tabulkového procesoru Microsoft Exel ve firmě |
 | **Autor:** | Vadym Royik |
 | **Škola:** | VŠPJ - Fakulta aplikované informatiky |
